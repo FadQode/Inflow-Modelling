@@ -1,0 +1,10 @@
+*__pycache__/
+*.wav
+*.bin
+*.npy
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.log
+*.zip
